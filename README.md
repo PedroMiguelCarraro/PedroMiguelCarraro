@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning C/Cpp
+- 📕 Want to learn about Web Development, JS, more Python, CSharp
+- 📫 Contact E-mail pedromiguel.carraro@gmail.com
+- 🏠 Personal Site [pedromiguelcarraro.github.io](pedromiguelcarraro.github.io)(on work)
+- 👨‍💻 If possible work more with the community
