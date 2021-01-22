@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C/Cpp
 - 📕 Want to learn about Web Development, JS, more Python, CSharp
 - 📫 Contact E-mail pedromiguel.carraro@gmail.com
-- 🏠 Personal Site <a href="pedromiguelcarraro.github.io">pedromiguelcarraro.github.io</a> (on work)
+- 🏠 Personal Site <a href="https://pedromiguelcarraro.github.io/">pedromiguelcarraro.github.io</a> (on work)
 - 👨‍💻 If possible work more with the community
