@@ -1,11 +1,29 @@
-### Hi there 👋
+### Wellcome | Bem-vindo
 
+
+<!--p>
+  Status
+</p-->
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedromiguelcarraro&count_private=true&include_all_commits=true" />
 </p>
 
+
+<p>
+  Trophies | Troféus
+</p>
+
+<p align="left" >
+  <img  src="https://github-profile-trophy.vercel.app/?username=PedroMiguelCarraro&rank=SECRET, SSS, SS, S, AAA, AA, A, B, C &column=5 &no-frame=true" />
+</p>
+
+
+
+
+
 <!--
+
 #EN-US
 
 - ⌨ Currently working on Personal GitHub Page
