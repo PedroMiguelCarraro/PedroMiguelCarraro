@@ -15,7 +15,7 @@
 
 
 <p align="left" >
-  <img  src="https://github-profile-trophy.vercel.app/?username=PedroMiguelCarraro&rank=SECRET, SSS, SS, S, AAA, AA, A, B, C &column=5 &no-frame=true" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=PedroMiguelCarraro&rank=SECRET, SSS, SS, S, AAA, AA, A, B, C &column=5 &no-frame=true&theme=darkhub" />
 </p>
 
 
