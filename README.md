@@ -6,7 +6,7 @@
 </p-->
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedromiguelcarraro&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pedromiguelcarraro&count_private=true&include_all_commits=true&theme=github_dark" />
 </p>
 
 
@@ -15,7 +15,7 @@
 
 
 <p align="left" >
-  <img  src="https://github-profile-trophy.vercel.app/?username=PedroMiguelCarraro&rank=SECRET, SSS, SS, S, AAA, AA, A, B, C &column=5 &no-frame=true&theme=darkhub" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=PedroMiguelCarraro&rank=SECRET, SSS, SS, S, AAA, AA, A, B &column=5 &no-frame=true&theme=darkhub" />
 </p>
 
 
