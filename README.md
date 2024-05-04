@@ -10,18 +10,6 @@
 </p>
 
 
-
- ### Trophies | Troféus
-
-
-<p align="left" >
-  <img  src="https://github-profile-trophy.vercel.app/?username=PedroMiguelCarraro&rank=SECRET, SSS, SS, S, AAA, AA, A, B &column=5 &no-frame=true&theme=darkhub" />
-</p>
-
-
-
-
-
 <!--
 
 #EN-US
